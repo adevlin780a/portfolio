@@ -3,6 +3,8 @@ languageCode = 'en-us'
 title = 'Andrew Devlin'
 theme = 'hugo-resume'
 relativeURLs = true 
+canonifyURLs = true
+
 
 
 [params]
