@@ -2,7 +2,8 @@ baseURL = 'https://adevlin780a.github.io/portfolio/'
 languageCode = 'en-us'
 title = 'Andrew Devlin'
 theme = 'hugo-resume'
-uglyURLs = false 
+relativeURLs = true
+
 
 
 [params]
