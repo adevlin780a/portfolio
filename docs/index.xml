@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Andrew Devlin</title>
+    <link>http://localhost:1313/portfolio/%20%E2%80%9D/</link>
+    <description>Recent content in Home on Andrew Devlin</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 07 Jan 2020 17:09:26 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/portfolio/%20%E2%80%9D/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Software Documentation</title>
+      <link>http://localhost:1313/portfolio/%20%E2%80%9D/projects/creations/software-documentation/</link>
+      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/portfolio/%20%E2%80%9D/projects/creations/software-documentation/</guid>
+      <description>&lt;h4 id=&#34;context&#34;&gt;Context&lt;/h4&gt;&#xA;&lt;h4 id=&#34;problem&#34;&gt;Problem&lt;/h4&gt;&#xA;&lt;h4 id=&#34;contribution&#34;&gt;Contribution&lt;/h4&gt;&#xA;&lt;h4 id=&#34;impact&#34;&gt;Impact&lt;/h4&gt;&#xA;&lt;h4 id=&#34;links&#34;&gt;Links&lt;/h4&gt;</description>
+    </item>
+    <item>
+      <title>Software Documentation</title>
+      <link>http://localhost:1313/portfolio/%20%E2%80%9D/publications/software-documentation/</link>
+      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/portfolio/%20%E2%80%9D/publications/software-documentation/</guid>
+      <description>&lt;h4 id=&#34;context&#34;&gt;Context&lt;/h4&gt;&#xA;&lt;h4 id=&#34;problem&#34;&gt;Problem&lt;/h4&gt;&#xA;&lt;h4 id=&#34;contribution&#34;&gt;Contribution&lt;/h4&gt;&#xA;&lt;h4 id=&#34;impact&#34;&gt;Impact&lt;/h4&gt;&#xA;&lt;h4 id=&#34;links&#34;&gt;Links&lt;/h4&gt;</description>
+    </item>
+    <item>
+      <title>Atlassian Deployment Triggers</title>
+      <link>http://localhost:1313/portfolio/%20%E2%80%9D/projects/contributions/deploy-triggers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/portfolio/%20%E2%80%9D/projects/contributions/deploy-triggers/</guid>
+      <description>&lt;p&gt;Addressed pretty significant page load performance issue founde in larger deployments. Eliminates uses of intensive backend query, replacing it with an asynchronous API call against a lucene index. This change reduces page load from from 2+ minutes to nearly instant, with an incredibly responsive UI.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>API Documentation</title>
+      <link>http://localhost:1313/portfolio/%20%E2%80%9D/projects/creations/api/</link>
+      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/portfolio/%20%E2%80%9D/projects/creations/api/</guid>
+      <description>&lt;h4 id=&#34;context&#34;&gt;Context&lt;/h4&gt;&#xA;&lt;p&gt;The ActiveState Platform API lets developers automate runtime builds, manage projects, and integrate directly with the platform’s backend. When I joined the documentation effort, the existing material was minimal and highly technical, which made it difficult for new users to get started.&lt;/p&gt;&#xA;&lt;h4 id=&#34;problem&#34;&gt;Problem&lt;/h4&gt;&#xA;&lt;p&gt;The main challenge was clarity. Developers often struggled with authentication, query syntax, and understanding how REST and GraphQL requests fit together. There were also gaps in examples users could see endpoints, but not how to apply them in real-world workflows.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>API Documentation</title>
+      <link>http://localhost:1313/portfolio/%20%E2%80%9D/publications/api/</link>
+      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/portfolio/%20%E2%80%9D/publications/api/</guid>
+      <description>&lt;h4 id=&#34;context&#34;&gt;Context&lt;/h4&gt;&#xA;&lt;h4 id=&#34;problem&#34;&gt;Problem&lt;/h4&gt;&#xA;&lt;h4 id=&#34;contribution&#34;&gt;Contribution&lt;/h4&gt;&#xA;&lt;h4 id=&#34;impact&#34;&gt;Impact&lt;/h4&gt;&#xA;&lt;h4 id=&#34;links&#34;&gt;Links&lt;/h4&gt;</description>
+    </item>
+    <item>
+      <title>Release Notes</title>
+      <link>http://localhost:1313/portfolio/%20%E2%80%9D/projects/creations/release-notes/</link>
+      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/portfolio/%20%E2%80%9D/projects/creations/release-notes/</guid>
+      <description>&lt;h4 id=&#34;context&#34;&gt;Context&lt;/h4&gt;&#xA;&lt;p&gt;Visier maintains a public Release Notes documentation section under their developer docs. The primary audience is users (often technical or admin users) who want to see what new features, fixes, or enhancements have been introduced in recent product releases. The page is organized by years and seasons (e.g. Summer, Winter) and links to more detailed notes for each period.&lt;/p&gt;&#xA;&lt;h4 id=&#34;problem&#34;&gt;Problem&lt;/h4&gt;&#xA;&lt;p&gt;I identified that the release notes lacked structure and context, making it hard for users to find updates relevant to them. Long, ungrouped lists and minimal explanations reduced usability and made it difficult to understand how changes affected workflows or integrations. My goal was to make the information easier to scan and more meaningful to different audiences.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Release Notes</title>
+      <link>http://localhost:1313/portfolio/%20%E2%80%9D/publications/release-notes/</link>
+      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/portfolio/%20%E2%80%9D/publications/release-notes/</guid>
+      <description>&lt;h4 id=&#34;context&#34;&gt;Context&lt;/h4&gt;&#xA;&lt;h4 id=&#34;problem&#34;&gt;Problem&lt;/h4&gt;&#xA;&lt;h4 id=&#34;contribution&#34;&gt;Contribution&lt;/h4&gt;&#xA;&lt;h4 id=&#34;impact&#34;&gt;Impact&lt;/h4&gt;&#xA;&lt;h4 id=&#34;links&#34;&gt;Links&lt;/h4&gt;</description>
+    </item>
+    <item>
+      <title>Added Docker Build Status Badge to shields.io</title>
+      <link>http://localhost:1313/portfolio/%20%E2%80%9D/projects/contributions/shields-docker/</link>
+      <pubDate>Tue, 07 Jan 2020 17:09:26 +0000</pubDate>
+      <guid>http://localhost:1313/portfolio/%20%E2%80%9D/projects/contributions/shields-docker/</guid>
+      <description>&lt;p&gt;Shields.io is a massive library of badges that can be inserted into project README&amp;rsquo;s or websites displaying various statuses (code coverage, health, version, etc).  Support for docker was missing the current build health, and was a pretty trivial addition.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>User Guides or Manuals</title>
+      <link>http://localhost:1313/portfolio/%20%E2%80%9D/projects/creations/user-guides-manuals/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/portfolio/%20%E2%80%9D/projects/creations/user-guides-manuals/</guid>
+      <description>&lt;h4 id=&#34;context&#34;&gt;Context&lt;/h4&gt;&#xA;&lt;h4 id=&#34;problem&#34;&gt;Problem&lt;/h4&gt;&#xA;&lt;h4 id=&#34;contribution&#34;&gt;Contribution&lt;/h4&gt;&#xA;&lt;h4 id=&#34;impact&#34;&gt;Impact&lt;/h4&gt;&#xA;&lt;h4 id=&#34;links&#34;&gt;Links&lt;/h4&gt;</description>
+    </item>
+    <item>
+      <title>Organically DevOps: Building Quality and Security into the Software Supply Chain at Liberty Mutual</title>
+      <link>http://localhost:1313/portfolio/%20%E2%80%9D/projects/creations/alldaydevops-copy/</link>
+      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/portfolio/%20%E2%80%9D/projects/creations/alldaydevops-copy/</guid>
+      <description>&lt;p&gt;This talk looked at Liberty Mutual’s transformation to Continuous Integration, Continuous Delivery, and DevOps. For a large, heavily regulated industry, this task can not only be daunting, but viewed by many as impossible. Often, organizations try to reduce the friction through micro-fixes, but Eddie’s team asked how to change the culture to reduce the friction and concluded with the following final points:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Don’t mandate DevOps. Give employees the chance to master their discipline with examples to set and follow.&lt;/li&gt;&#xA;&lt;li&gt;Favor deep end-to-end accomplishments over broad but incremental steps forward. Focus on taking the right teams far before encouraging broad adoption.&lt;/li&gt;&#xA;&lt;li&gt;Centralize the platforms and tools that your teams shouldn’t be thinking about. Provide foundational services/commodities and let teams stay on purpose.&lt;/li&gt;&#xA;&lt;li&gt;Incorporate contributions from everyone; don’t stifle autonomy. Stay open to new ways of working.&lt;/li&gt;&#xA;&lt;li&gt;Challenge security policies, but respect intentions. Find new ways to enforce concerns without abandoning precaution.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/FsfKsqI07jM?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;&#xA;    &lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Organically DevOps: Building Quality and Security into the Software Supply Chain at Liberty Mutual</title>
+      <link>http://localhost:1313/portfolio/%20%E2%80%9D/publications/alldaydevops-copy/</link>
+      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/portfolio/%20%E2%80%9D/publications/alldaydevops-copy/</guid>
+      <description>&lt;p&gt;This talk looked at Liberty Mutual’s transformation to Continuous Integration, Continuous Delivery, and DevOps. For a large, heavily regulated industry, this task can not only be daunting, but viewed by many as impossible. Often, organizations try to reduce the friction through micro-fixes, but Eddie’s team asked how to change the culture to reduce the friction and concluded with the following final points:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Don’t mandate DevOps. Give employees the chance to master their discipline with examples to set and follow.&lt;/li&gt;&#xA;&lt;li&gt;Favor deep end-to-end accomplishments over broad but incremental steps forward. Focus on taking the right teams far before encouraging broad adoption.&lt;/li&gt;&#xA;&lt;li&gt;Centralize the platforms and tools that your teams shouldn’t be thinking about. Provide foundational services/commodities and let teams stay on purpose.&lt;/li&gt;&#xA;&lt;li&gt;Incorporate contributions from everyone; don’t stifle autonomy. Stay open to new ways of working.&lt;/li&gt;&#xA;&lt;li&gt;Challenge security policies, but respect intentions. Find new ways to enforce concerns without abandoning precaution.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/FsfKsqI07jM?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;&#xA;    &lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Schema.org Structured Data documentation fixes</title>
+      <link>http://localhost:1313/portfolio/%20%E2%80%9D/projects/contributions/schema-org/</link>
+      <pubDate>Tue, 07 Jan 2020 17:08:21 +0000</pubDate>
+      <guid>http://localhost:1313/portfolio/%20%E2%80%9D/projects/contributions/schema-org/</guid>
+      <description>&lt;p&gt;While adding &lt;em&gt;Structured Data&lt;/em&gt; to a client&amp;rsquo;s website I found some example JSON that was invalid.  Simple contribution to cleanup the user documentation providing syntactically valid JSON documents.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Forcing Visits to use SSL</title>
+      <link>http://localhost:1313/portfolio/%20%E2%80%9D/blog/force-ssl/</link>
+      <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
+      <guid>http://localhost:1313/portfolio/%20%E2%80%9D/blog/force-ssl/</guid>
+      <description>&lt;h2 id=&#34;intro&#34;&gt;Intro&lt;/h2&gt;&#xA;&lt;p&gt;Doesn&amp;rsquo;t matter whether it&amp;rsquo;s a CakePHP app for a client, your own personal CMS, or any other web based application. &lt;strong&gt;If your passing around passwords or other sensitive info you should really implement SSL.&lt;/strong&gt; SSL provides 2 main perks to your visitors.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;First it encrypts all communication that flies across the web. This prevents curious or devious billies from getting your secrets.&lt;/li&gt;&#xA;&lt;li&gt;Secondly it ensures to the user that your server is in fact who it claims, and not a nasty &amp;lsquo;man in the middle&amp;quot; attack.&lt;/li&gt;&#xA;&lt;li&gt;Finally it gives your site that touch of class&amp;hellip;. which of course a classy person like yourself relies on.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Once you implement SSL certificates on your server you&amp;rsquo;ll want to &lt;strong&gt;require secure connections&lt;/strong&gt; using Apache&amp;rsquo;s rewrite module. Now I won&amp;rsquo;t dwell on the creation and signing of certificates, its already well documented.  If your just starting out though,heres a few links I recommend;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

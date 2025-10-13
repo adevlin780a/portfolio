@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolio on Andrew Devlin</title>
+    <link>http://localhost:1313/portfolio/%20%E2%80%9D/projects/creations/</link>
+    <description>Recent content in Portfolio on Andrew Devlin</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 08 Nov 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/portfolio/%20%E2%80%9D/projects/creations/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Software Documentation</title>
+      <link>http://localhost:1313/portfolio/%20%E2%80%9D/projects/creations/software-documentation/</link>
+      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/portfolio/%20%E2%80%9D/projects/creations/software-documentation/</guid>
+      <description>&lt;h4 id=&#34;context&#34;&gt;Context&lt;/h4&gt;&#xA;&lt;h4 id=&#34;problem&#34;&gt;Problem&lt;/h4&gt;&#xA;&lt;h4 id=&#34;contribution&#34;&gt;Contribution&lt;/h4&gt;&#xA;&lt;h4 id=&#34;impact&#34;&gt;Impact&lt;/h4&gt;&#xA;&lt;h4 id=&#34;links&#34;&gt;Links&lt;/h4&gt;</description>
+    </item>
+    <item>
+      <title>API Documentation</title>
+      <link>http://localhost:1313/portfolio/%20%E2%80%9D/projects/creations/api/</link>
+      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/portfolio/%20%E2%80%9D/projects/creations/api/</guid>
+      <description>&lt;h4 id=&#34;context&#34;&gt;Context&lt;/h4&gt;&#xA;&lt;p&gt;The ActiveState Platform API lets developers automate runtime builds, manage projects, and integrate directly with the platform’s backend. When I joined the documentation effort, the existing material was minimal and highly technical, which made it difficult for new users to get started.&lt;/p&gt;&#xA;&lt;h4 id=&#34;problem&#34;&gt;Problem&lt;/h4&gt;&#xA;&lt;p&gt;The main challenge was clarity. Developers often struggled with authentication, query syntax, and understanding how REST and GraphQL requests fit together. There were also gaps in examples users could see endpoints, but not how to apply them in real-world workflows.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Release Notes</title>
+      <link>http://localhost:1313/portfolio/%20%E2%80%9D/projects/creations/release-notes/</link>
+      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/portfolio/%20%E2%80%9D/projects/creations/release-notes/</guid>
+      <description>&lt;h4 id=&#34;context&#34;&gt;Context&lt;/h4&gt;&#xA;&lt;p&gt;Visier maintains a public Release Notes documentation section under their developer docs. The primary audience is users (often technical or admin users) who want to see what new features, fixes, or enhancements have been introduced in recent product releases. The page is organized by years and seasons (e.g. Summer, Winter) and links to more detailed notes for each period.&lt;/p&gt;&#xA;&lt;h4 id=&#34;problem&#34;&gt;Problem&lt;/h4&gt;&#xA;&lt;p&gt;I identified that the release notes lacked structure and context, making it hard for users to find updates relevant to them. Long, ungrouped lists and minimal explanations reduced usability and made it difficult to understand how changes affected workflows or integrations. My goal was to make the information easier to scan and more meaningful to different audiences.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>User Guides or Manuals</title>
+      <link>http://localhost:1313/portfolio/%20%E2%80%9D/projects/creations/user-guides-manuals/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/portfolio/%20%E2%80%9D/projects/creations/user-guides-manuals/</guid>
+      <description>&lt;h4 id=&#34;context&#34;&gt;Context&lt;/h4&gt;&#xA;&lt;h4 id=&#34;problem&#34;&gt;Problem&lt;/h4&gt;&#xA;&lt;h4 id=&#34;contribution&#34;&gt;Contribution&lt;/h4&gt;&#xA;&lt;h4 id=&#34;impact&#34;&gt;Impact&lt;/h4&gt;&#xA;&lt;h4 id=&#34;links&#34;&gt;Links&lt;/h4&gt;</description>
+    </item>
+    <item>
+      <title>Organically DevOps: Building Quality and Security into the Software Supply Chain at Liberty Mutual</title>
+      <link>http://localhost:1313/portfolio/%20%E2%80%9D/projects/creations/alldaydevops-copy/</link>
+      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/portfolio/%20%E2%80%9D/projects/creations/alldaydevops-copy/</guid>
+      <description>&lt;p&gt;This talk looked at Liberty Mutual’s transformation to Continuous Integration, Continuous Delivery, and DevOps. For a large, heavily regulated industry, this task can not only be daunting, but viewed by many as impossible. Often, organizations try to reduce the friction through micro-fixes, but Eddie’s team asked how to change the culture to reduce the friction and concluded with the following final points:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Don’t mandate DevOps. Give employees the chance to master their discipline with examples to set and follow.&lt;/li&gt;&#xA;&lt;li&gt;Favor deep end-to-end accomplishments over broad but incremental steps forward. Focus on taking the right teams far before encouraging broad adoption.&lt;/li&gt;&#xA;&lt;li&gt;Centralize the platforms and tools that your teams shouldn’t be thinking about. Provide foundational services/commodities and let teams stay on purpose.&lt;/li&gt;&#xA;&lt;li&gt;Incorporate contributions from everyone; don’t stifle autonomy. Stay open to new ways of working.&lt;/li&gt;&#xA;&lt;li&gt;Challenge security policies, but respect intentions. Find new ways to enforce concerns without abandoning precaution.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/FsfKsqI07jM?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;&#xA;    &lt;/div&gt;</description>
+    </item>
+  </channel>
+</rss>

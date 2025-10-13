@@ -1,0 +1,12 @@
+baseURL = 'https://example.com'
+languageCode = 'en-us'
+title = 'Andrew Devlin'
+theme = 'hugo-resume'
+
+[params]
+email = "a.devlin780@gmail.com"
+favicon = "favicon.ico"
+firstName = "Andrew"
+lastName = "Devlin"
+profileImage = "profile.jpg"
+sections = ["creations", "skills", "experience", "education"]

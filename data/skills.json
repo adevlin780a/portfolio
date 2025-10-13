@@ -1,0 +1,70 @@
+[
+  {
+    "grouping": "Core skills",
+    "skills": [
+      "Technical communication /",
+      "Content strategy /",
+      "Information architecture /",
+      "Product documentation /",
+      "UX Writing /",
+      "Content design and development /",
+      "Open source documentation /",
+      "Technical community management"
+    ]
+  },
+  {
+    "grouping": "Content",
+    "skills": [
+      "Implementation guides /",
+      "Online help /",
+      "User guides /",
+      "Release notes /",
+      "Technical specifications /",
+      "Developer docs /",
+      "API documentation /",
+      "Error messages /",
+      "Product content /",
+      "Developer Portals"
+    ]
+  },
+  {
+    "grouping": "Tools",
+    "skills": [
+      "Redocly /",
+      "IDE text editors /",
+      "MS Office /",
+      "Madcap Flare /",
+      "RoboHelp /",
+      "Wikis /",
+      "Hotjar /",
+      "Google Analytics /",
+      "Confluence /",
+      "JIRA /",
+      "WordPress /",
+      "Markdown /",
+      "Swagger /",
+      "Git /",
+      "Postman /",
+      "GitHub Copilot /",
+      "Midjourney /",
+      "DALL·E /",
+      "Canva /",
+      "ChatGPT /",
+      "Claude /", 
+      "GrammarlyGO /",
+      "Whisper / Otter.ai"
+    ]
+  },
+  {
+    "grouping": "AI Driven Workflows",
+    "skills": [
+      "AI-assisted writing and editing /",
+      "AI-powered style and consistency checks /",
+      "AI-based content audits /",
+      "AI transcription and summarization /",
+      "AI-assisted localization and translation /",
+      "Code summarization and snippet generation /",
+      "AI-assisted diagram and visual generation"
+    ]
+  }
+]
