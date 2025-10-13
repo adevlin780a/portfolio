@@ -2,6 +2,8 @@ baseURL = 'https://adevlin780a.github.io/portfolio/'
 languageCode = 'en-us'
 title = 'Andrew Devlin'
 theme = 'hugo-resume'
+relativeURLs = true
+
 
 [params]
 email = "a.devlin780@gmail.com"
