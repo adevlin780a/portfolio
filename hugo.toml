@@ -8,7 +8,7 @@ uglyURLs = false
 
 [params]
 email = "a.devlin780@gmail.com"
-favicon = "img/favicon.ico"
+favicon = "favicon.ico"
 firstName = "Andrew"
 lastName = "Devlin"
 profileImage = "profile.jpg"
