@@ -9,7 +9,7 @@ canonifyURLs = true
 
 [params]
 email = "a.devlin780@gmail.com"
-favicon = "favicon.ico"
+favicon = "img/favicon.ico"
 firstName = "Andrew"
 lastName = "Devlin"
 profileImage = "profile.jpg"
