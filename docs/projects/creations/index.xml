@@ -1,23 +1,47 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Portfolio on Andrew Devlin</title><link>https://example.com/projects/creations/</link><description>Recent content in Portfolio on Andrew Devlin</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 08 Nov 2016 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/projects/creations/index.xml" rel="self" type="application/rss+xml"/><item><title>Software Documentation</title><link>https://example.com/projects/creations/software-documentation/</link><pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate><guid>https://example.com/projects/creations/software-documentation/</guid><description>&lt;h3 id="context"&gt;Context&lt;/h3&gt;
-&lt;p&gt;Visier is a leading people analytics platform that empowers organizations to make data-driven decisions about their workforce. The platform offers extensive features for data integration, analytics, and visualization. As part of the documentation team, I was tasked with enhancing the clarity, usability, and accessibility of Visier&amp;rsquo;s developer documentation.&lt;/p&gt;
-&lt;h3 id="problem"&gt;Problem&lt;/h3&gt;
-&lt;p&gt;Users, particularly developers and administrators, often faced challenges in navigating the complex documentation due to its dense technical language and lack of clear examples. This led to increased support queries and a steeper learning curve for new users.&lt;/p&gt;</description></item><item><title>API Documentation</title><link>https://example.com/projects/creations/api/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.com/projects/creations/api/</guid><description>&lt;h3 id="context"&gt;Context&lt;/h3&gt;
-&lt;p&gt;The ActiveState Platform API lets developers automate runtime builds, manage projects, and integrate directly with the platform’s backend. When I joined the documentation effort, the existing material was minimal and highly technical, which made it difficult for new users to get started.&lt;/p&gt;
-&lt;h3 id="problem"&gt;Problem&lt;/h3&gt;
-&lt;p&gt;The main challenge was clarity. Developers often struggled with authentication, query syntax, and understanding how REST and GraphQL requests fit together. There were also gaps in examples users could see endpoints, but not how to apply them in real-world workflows.&lt;/p&gt;</description></item><item><title>Release Notes</title><link>https://example.com/projects/creations/release-notes/</link><pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate><guid>https://example.com/projects/creations/release-notes/</guid><description>&lt;h3 id="context"&gt;Context&lt;/h3&gt;
-&lt;p&gt;Visier maintains public release notes in their embedded documentation. The primary audience is users (often technical or admin users) who want to see what new features, fixes, or enhancements have been introduced in recent product releases. The page is organized by years and seasons (e.g. Summer, Winter) and links to more detailed notes for each period.&lt;/p&gt;
-&lt;h3 id="problem"&gt;Problem&lt;/h3&gt;
-&lt;p&gt;Publishing release notes keeps users informed of changes, helps them adopt new features, reduces support requests, and builds trust by clearly documenting updates over time.&lt;/p&gt;</description></item><item><title>User Guides</title><link>https://example.com/projects/creations/user-guides-manuals/</link><pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate><guid>https://example.com/projects/creations/user-guides-manuals/</guid><description>&lt;h3 id="context"&gt;Context&lt;/h3&gt;
-&lt;p&gt;As a technical writer at ActiveState, I was tasked with creating a clear and concise guide to help developers quickly set up and start using the ActiveState Platform. This guide serves as an introductory resource for users new to the platform.&lt;/p&gt;
-&lt;h3 id="problem"&gt;Problem&lt;/h3&gt;
-&lt;p&gt;New users often face challenges in understanding how to begin using the ActiveState Platform, leading to confusion and potential disengagement. Things like creating an account and building a runtime were common friction points for new users. And interacting with the command line interface of the State Tool was not clearly described during onboarding. There was a need for a straightforward, step-by-step guide to facilitate a smooth onboarding experience.&lt;/p&gt;</description></item><item><title>Organically DevOps: Building Quality and Security into the Software Supply Chain at Liberty Mutual</title><link>https://example.com/projects/creations/alldaydevops-copy/</link><pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate><guid>https://example.com/projects/creations/alldaydevops-copy/</guid><description>&lt;p&gt;This talk looked at Liberty Mutual’s transformation to Continuous Integration, Continuous Delivery, and DevOps. For a large, heavily regulated industry, this task can not only be daunting, but viewed by many as impossible. Often, organizations try to reduce the friction through micro-fixes, but Eddie’s team asked how to change the culture to reduce the friction and concluded with the following final points:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Don’t mandate DevOps. Give employees the chance to master their discipline with examples to set and follow.&lt;/li&gt;
-&lt;li&gt;Favor deep end-to-end accomplishments over broad but incremental steps forward. Focus on taking the right teams far before encouraging broad adoption.&lt;/li&gt;
-&lt;li&gt;Centralize the platforms and tools that your teams shouldn’t be thinking about. Provide foundational services/commodities and let teams stay on purpose.&lt;/li&gt;
-&lt;li&gt;Incorporate contributions from everyone; don’t stifle autonomy. Stay open to new ways of working.&lt;/li&gt;
-&lt;li&gt;Challenge security policies, but respect intentions. Find new ways to enforce concerns without abandoning precaution.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;"&gt;
- &lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/FsfKsqI07jM?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"&gt;&lt;/iframe&gt;
- &lt;/div&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolio on Andrew Devlin</title>
+    <link>https://adevlin780a.github.io/portfolio/projects/creations/</link>
+    <description>Recent content in Portfolio on Andrew Devlin</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 08 Nov 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://adevlin780a.github.io/portfolio/projects/creations/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Software Documentation</title>
+      <link>https://adevlin780a.github.io/portfolio/projects/creations/software-documentation/</link>
+      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>https://adevlin780a.github.io/portfolio/projects/creations/software-documentation/</guid>
+      <description>&lt;h3 id=&#34;context&#34;&gt;Context&lt;/h3&gt;&#xA;&lt;p&gt;Visier is a leading people analytics platform that empowers organizations to make data-driven decisions about their workforce. The platform offers extensive features for data integration, analytics, and visualization. As part of the documentation team, I was tasked with enhancing the clarity, usability, and accessibility of Visier&amp;rsquo;s developer documentation.&lt;/p&gt;&#xA;&lt;h3 id=&#34;problem&#34;&gt;Problem&lt;/h3&gt;&#xA;&lt;p&gt;Users, particularly developers and administrators, often faced challenges in navigating the complex documentation due to its dense technical language and lack of clear examples. This led to increased support queries and a steeper learning curve for new users.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>API Documentation</title>
+      <link>https://adevlin780a.github.io/portfolio/projects/creations/api/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://adevlin780a.github.io/portfolio/projects/creations/api/</guid>
+      <description>&lt;h3 id=&#34;context&#34;&gt;Context&lt;/h3&gt;&#xA;&lt;p&gt;The ActiveState Platform API lets developers automate runtime builds, manage projects, and integrate directly with the platform’s backend. When I joined the documentation effort, the existing material was minimal and highly technical, which made it difficult for new users to get started.&lt;/p&gt;&#xA;&lt;h3 id=&#34;problem&#34;&gt;Problem&lt;/h3&gt;&#xA;&lt;p&gt;The main challenge was clarity. Developers often struggled with authentication, query syntax, and understanding how REST and GraphQL requests fit together. There were also gaps in examples users could see endpoints, but not how to apply them in real-world workflows.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Release Notes</title>
+      <link>https://adevlin780a.github.io/portfolio/projects/creations/release-notes/</link>
+      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>https://adevlin780a.github.io/portfolio/projects/creations/release-notes/</guid>
+      <description>&lt;h3 id=&#34;context&#34;&gt;Context&lt;/h3&gt;&#xA;&lt;p&gt;Visier maintains public release notes in their embedded documentation. The primary audience is users (often technical or admin users) who want to see what new features, fixes, or enhancements have been introduced in recent product releases. The page is organized by years and seasons (e.g. Summer, Winter) and links to more detailed notes for each period.&lt;/p&gt;&#xA;&lt;h3 id=&#34;problem&#34;&gt;Problem&lt;/h3&gt;&#xA;&lt;p&gt;Publishing release notes keeps users informed of changes, helps them adopt new features, reduces support requests, and builds trust by clearly documenting updates over time.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>User Guides</title>
+      <link>https://adevlin780a.github.io/portfolio/projects/creations/user-guides-manuals/</link>
+      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>https://adevlin780a.github.io/portfolio/projects/creations/user-guides-manuals/</guid>
+      <description>&lt;h3 id=&#34;context&#34;&gt;Context&lt;/h3&gt;&#xA;&lt;p&gt;As a technical writer at ActiveState, I was tasked with creating a clear and concise guide to help developers quickly set up and start using the ActiveState Platform. This guide serves as an introductory resource for users new to the platform.&lt;/p&gt;&#xA;&lt;h3 id=&#34;problem&#34;&gt;Problem&lt;/h3&gt;&#xA;&lt;p&gt;New users often face challenges in understanding how to begin using the ActiveState Platform, leading to confusion and potential disengagement. Things like creating an account and building a runtime were common friction points for new users. And interacting with the command line interface of the State Tool was not clearly described during onboarding. There was a need for a straightforward, step-by-step guide to facilitate a smooth onboarding experience.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Organically DevOps: Building Quality and Security into the Software Supply Chain at Liberty Mutual</title>
+      <link>https://adevlin780a.github.io/portfolio/projects/creations/alldaydevops-copy/</link>
+      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>https://adevlin780a.github.io/portfolio/projects/creations/alldaydevops-copy/</guid>
+      <description>&lt;p&gt;This talk looked at Liberty Mutual’s transformation to Continuous Integration, Continuous Delivery, and DevOps. For a large, heavily regulated industry, this task can not only be daunting, but viewed by many as impossible. Often, organizations try to reduce the friction through micro-fixes, but Eddie’s team asked how to change the culture to reduce the friction and concluded with the following final points:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Don’t mandate DevOps. Give employees the chance to master their discipline with examples to set and follow.&lt;/li&gt;&#xA;&lt;li&gt;Favor deep end-to-end accomplishments over broad but incremental steps forward. Focus on taking the right teams far before encouraging broad adoption.&lt;/li&gt;&#xA;&lt;li&gt;Centralize the platforms and tools that your teams shouldn’t be thinking about. Provide foundational services/commodities and let teams stay on purpose.&lt;/li&gt;&#xA;&lt;li&gt;Incorporate contributions from everyone; don’t stifle autonomy. Stay open to new ways of working.&lt;/li&gt;&#xA;&lt;li&gt;Challenge security policies, but respect intentions. Find new ways to enforce concerns without abandoning precaution.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/FsfKsqI07jM?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;&#xA;    &lt;/div&gt;</description>
+    </item>
+  </channel>
+</rss>
