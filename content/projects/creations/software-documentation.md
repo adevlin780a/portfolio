@@ -29,4 +29,5 @@ These updates were applied to various sections of the documentaiton where develo
 ### Impact
 User feedback reflected greater satisfaction with the clarity and usefulness of the documentation. The updates also streamlined the onboarding process for new users and improved the depth and clarity of more technically complex features, helping users realize value from the platform more quickly.
 ### Links
-[Visier Documentation](https://docs.visier.com/embedded/embedded.htm)
+* [Visier Documentation Business Rules](https://docs.visier.com/embedded/Studio/data/rules/rules-business.htm)
+* [Visier Documentation Business Rules Examples](https://docs.visier.com/embedded/Studio/data/rules/rules-business-examples.htm)
