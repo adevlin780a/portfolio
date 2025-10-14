@@ -9,25 +9,21 @@ sitemap:
   priority : 0.8
 ---
 ### Context
-Visier is a leading people analytics platform that empowers organizations to make data-driven decisions about their workforce. The platform offers extensive features for data integration, analytics, and visualization. As part of the documentation team, I was tasked with enhancing the clarity, usability, and accessibility of Visier's developer documentation.
+I created documentation for Visier’s Business Rules feature, part of the Developer Studio section of the Visier documentation site. The page explains how users can define, configure, and preview business rules in data workflows. My goal was to deliver a technically accurate, easy-to-navigate resource that fit seamlessly into the existing documentation structure and visual design.
 ### Problem
-Users, particularly developers and administrators, often faced challenges in navigating the complex documentation due to its dense technical language and lack of clear examples. This led to increased support queries and a steeper learning curve for new users.
+The existing materials lacked a clear, structured explanation of how business rules fit into the overall data process. Developers needed a single page that described not only what business rules are, but also how to create, manage, and preview them. I also needed to ensure consistent navigation, formatting, and internal linking within the larger documentation framework.
 ### Contribution
-I collaborated with subject matter experts to rewrite and restructure key sections of the developer documentation, focusing on the embedded user persona. My contributions included:
+I structured the content into clear, logical sections (Overview, Creating Rules, Configuring Rules, Previewing Results, and Managing Event Streams) to guide users step by step through the process of building and managing business rules.
 
-* Simplifying technical jargon to make content more accessible.
+I authored and formatted the page in MadCap Flare as part of the team’s docs-as-code publication workflow, using Git to stage, commit, and push updates to the shared layout templates. This approach ensured the page inherited consistent navigation, headers, and styling across the site. I added internal links to related resources such as Event Stream Stages and Business Rule Examples, validated all URLs for cross-page accuracy, and tested the layout for responsiveness and accessibility. I also verified metadata for search indexing and deployed the finished page through the documentation build pipeline.
 
-* Adding practical examples and use cases to illustrate concepts.
+![Visier Business Rules](/img/bus-rules.png)
 
-* Implementing consistent formatting and navigation to enhance readability.
+To complement the main Business Rules page, I created a companion page titled “Business Rules Examples.” This page provides practical, real-world examples that demonstrate how different configurations behave within the Visier platform. I developed it to help users bridge the gap between conceptual understanding and practical application—illustrating how rule syntax, conditions, and event triggers work together. The examples page made it easier for new developers to get started and offered reusable patterns for advanced users, improving overall comprehension and adoption of the feature.
 
-* Ensuring alignment with Visier's style guide for consistency across documentation.
-
-These updates were applied to various sections of the documentaiton where developers may need more clarity in thier process and approach to using Visier.
-
-![Visier documentation website](/img/documentation.png)
+![Visier Business Rules Examples](/img/bus-rules-ex.png)
 ### Impact
-User feedback reflected greater satisfaction with the clarity and usefulness of the documentation. The updates also streamlined the onboarding process for new users and improved the depth and clarity of more technically complex features, helping users realize value from the platform more quickly.
+The updated Business Rules page, as well as the accompanying Business Rules Examples page, gives developers and analysts a clear reference for authoring and managing rules within Visier Studio. It improves usability by consolidating previously scattered information into one location and reduces support requests by helping users troubleshoot and understand rule behavior on their own. By following the documentation framework and version control practices, the page is also easy to maintain and update as the product evolves.
 ### Links
 * [Visier Documentation Business Rules](https://docs.visier.com/embedded/Studio/data/rules/rules-business.htm)
 * [Visier Documentation Business Rules Examples](https://docs.visier.com/embedded/Studio/data/rules/rules-business-examples.htm)
