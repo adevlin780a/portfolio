@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Portfolio on Andrew Devlin</title>
-    <link>https://adevlin780a.github.io/portfolio/projects/creations/</link>
+    <link>http://localhost:1313/portfolio/projects/creations/</link>
     <description>Recent content in Portfolio on Andrew Devlin</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 08 Nov 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://adevlin780a.github.io/portfolio/projects/creations/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/portfolio/projects/creations/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Software Documentation</title>
-      <link>https://adevlin780a.github.io/portfolio/projects/creations/software-documentation/</link>
+      <link>http://localhost:1313/portfolio/projects/creations/software-documentation/</link>
       <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>https://adevlin780a.github.io/portfolio/projects/creations/software-documentation/</guid>
+      <guid>http://localhost:1313/portfolio/projects/creations/software-documentation/</guid>
       <description>&lt;h3 id=&#34;context&#34;&gt;Context&lt;/h3&gt;&#xA;&lt;p&gt;I created documentation for Visier’s Business Rules feature, part of the Developer Studio section of the Visier documentation site. The page explains how users can define, configure, and preview business rules in data workflows. My goal was to deliver a technically accurate, easy-to-navigate resource that fit seamlessly into the existing documentation structure and visual design.&lt;/p&gt;&#xA;&lt;h3 id=&#34;problem&#34;&gt;Problem&lt;/h3&gt;&#xA;&lt;p&gt;The existing materials lacked a clear, structured explanation of how business rules fit into the overall data process. Developers needed a single page that described not only what business rules are, but also how to create, manage, and preview them. I also needed to ensure consistent navigation, formatting, and internal linking within the larger documentation framework.&lt;/p&gt;</description>
     </item>
     <item>
       <title>API Documentation</title>
-      <link>https://adevlin780a.github.io/portfolio/projects/creations/api/</link>
+      <link>http://localhost:1313/portfolio/projects/creations/api/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://adevlin780a.github.io/portfolio/projects/creations/api/</guid>
+      <guid>http://localhost:1313/portfolio/projects/creations/api/</guid>
       <description>&lt;h3 id=&#34;context&#34;&gt;Context&lt;/h3&gt;&#xA;&lt;p&gt;The ActiveState Platform API lets developers automate runtime builds, manage projects, and integrate directly with the platform’s backend. When I joined the documentation effort, the existing material was minimal and highly technical, which made it difficult for new users to get started.&lt;/p&gt;&#xA;&lt;h3 id=&#34;problem&#34;&gt;Problem&lt;/h3&gt;&#xA;&lt;p&gt;The main challenge was clarity. Developers often struggled with authentication, query syntax, and understanding how REST and GraphQL requests fit together. There were also gaps in examples users could see endpoints, but not how to apply them in real-world workflows.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Release Notes</title>
-      <link>https://adevlin780a.github.io/portfolio/projects/creations/release-notes/</link>
+      <link>http://localhost:1313/portfolio/projects/creations/release-notes/</link>
       <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>https://adevlin780a.github.io/portfolio/projects/creations/release-notes/</guid>
+      <guid>http://localhost:1313/portfolio/projects/creations/release-notes/</guid>
       <description>&lt;h3 id=&#34;context&#34;&gt;Context&lt;/h3&gt;&#xA;&lt;p&gt;Visier maintains public release notes in their embedded documentation. The primary audience is users (often technical or admin users) who want to see what new features, fixes, or enhancements have been introduced in recent product releases. The page is organized by years and seasons (e.g. Summer, Winter) and links to more detailed notes for each period.&lt;/p&gt;&#xA;&lt;h3 id=&#34;problem&#34;&gt;Problem&lt;/h3&gt;&#xA;&lt;p&gt;Publishing release notes keeps users informed of changes, helps them adopt new features, reduces support requests, and builds trust by clearly documenting updates over time.&lt;/p&gt;</description>
     </item>
     <item>
       <title>User Guides</title>
-      <link>https://adevlin780a.github.io/portfolio/projects/creations/user-guides/</link>
+      <link>http://localhost:1313/portfolio/projects/creations/user-guides/</link>
       <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>https://adevlin780a.github.io/portfolio/projects/creations/user-guides/</guid>
+      <guid>http://localhost:1313/portfolio/projects/creations/user-guides/</guid>
       <description>&lt;h3 id=&#34;context&#34;&gt;Context&lt;/h3&gt;&#xA;&lt;p&gt;As a technical writer at ActiveState, I was tasked with creating a clear and concise guide to help developers quickly set up and start using the ActiveState Platform. This guide serves as an introductory resource for users new to the platform.&lt;/p&gt;&#xA;&lt;h3 id=&#34;problem&#34;&gt;Problem&lt;/h3&gt;&#xA;&lt;p&gt;New users often face challenges in understanding how to begin using the ActiveState Platform, leading to confusion and potential disengagement. Things like creating an account and building a runtime were common friction points for new users. And interacting with the command line interface of the State Tool was not clearly described during onboarding. There was a need for a straightforward, step-by-step guide to facilitate a smooth onboarding experience.&lt;/p&gt;</description>
     </item>
   </channel>

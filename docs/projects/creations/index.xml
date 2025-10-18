@@ -31,9 +31,9 @@
     </item>
     <item>
       <title>User Guides</title>
-      <link>https://adevlin780a.github.io/portfolio/projects/creations/user-guides-manuals/</link>
+      <link>https://adevlin780a.github.io/portfolio/projects/creations/user-guides/</link>
       <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>https://adevlin780a.github.io/portfolio/projects/creations/user-guides-manuals/</guid>
+      <guid>https://adevlin780a.github.io/portfolio/projects/creations/user-guides/</guid>
       <description>&lt;h3 id=&#34;context&#34;&gt;Context&lt;/h3&gt;&#xA;&lt;p&gt;As a technical writer at ActiveState, I was tasked with creating a clear and concise guide to help developers quickly set up and start using the ActiveState Platform. This guide serves as an introductory resource for users new to the platform.&lt;/p&gt;&#xA;&lt;h3 id=&#34;problem&#34;&gt;Problem&lt;/h3&gt;&#xA;&lt;p&gt;New users often face challenges in understanding how to begin using the ActiveState Platform, leading to confusion and potential disengagement. Things like creating an account and building a runtime were common friction points for new users. And interacting with the command line interface of the State Tool was not clearly described during onboarding. There was a need for a straightforward, step-by-step guide to facilitate a smooth onboarding experience.&lt;/p&gt;</description>
     </item>
   </channel>
