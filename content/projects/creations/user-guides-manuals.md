@@ -2,7 +2,7 @@
 title: "User Guides"
 date: 2016-11-08
 featured: true
-description: "I create user guides that combine technical accuracy with accessible language. Each guide follows best practices in information architecture, task-based writing, and visual clarity to ensure a smooth learning experience."
+description: "I create detailed user guides that combine technical accuracy with accessible language. Each guide follows best practices in information architecture, task-based writing, and visual clarity to ensure a smooth learning experience."
 image: "/img/user-guide.png"
 weight: 500
 sitemap:
