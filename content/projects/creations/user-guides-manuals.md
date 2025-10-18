@@ -2,7 +2,7 @@
 title: "User Guides"
 date: 2016-11-08
 featured: true
-description: "I create release notes that make software updates clear and easy to understand. My goal is to help users quickly see what’s new, improved, or changed while keeping the content concise and user-friendly."
+description: "I create user guides that combine technical accuracy with accessible language. Each guide follows best practices in information architecture, task-based writing, and visual clarity to ensure a smooth learning experience."
 image: "/img/user-guide.png"
 weight: 500
 sitemap:
