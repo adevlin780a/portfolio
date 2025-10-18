@@ -29,12 +29,5 @@
       <guid>http://localhost:1313/portfolio/projects/creations/release-notes/</guid>
       <description>&lt;h3 id=&#34;context&#34;&gt;Context&lt;/h3&gt;&#xA;&lt;p&gt;Visier maintains public release notes in their embedded documentation. The primary audience is users (often technical or admin users) who want to see what new features, fixes, or enhancements have been introduced in recent product releases. The page is organized by years and seasons (e.g. Summer, Winter) and links to more detailed notes for each period.&lt;/p&gt;&#xA;&lt;h3 id=&#34;problem&#34;&gt;Problem&lt;/h3&gt;&#xA;&lt;p&gt;Publishing release notes keeps users informed of changes, helps them adopt new features, reduces support requests, and builds trust by clearly documenting updates over time.&lt;/p&gt;</description>
     </item>
-    <item>
-      <title>User Guides</title>
-      <link>http://localhost:1313/portfolio/projects/creations/user-guides-manuals/</link>
-      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/portfolio/projects/creations/user-guides-manuals/</guid>
-      <description>&lt;h3 id=&#34;context&#34;&gt;Context&lt;/h3&gt;&#xA;&lt;p&gt;As a technical writer at ActiveState, I was tasked with creating a clear and concise guide to help developers quickly set up and start using the ActiveState Platform. This guide serves as an introductory resource for users new to the platform.&lt;/p&gt;&#xA;&lt;h3 id=&#34;problem&#34;&gt;Problem&lt;/h3&gt;&#xA;&lt;p&gt;New users often face challenges in understanding how to begin using the ActiveState Platform, leading to confusion and potential disengagement. Things like creating an account and building a runtime were common friction points for new users. And interacting with the command line interface of the State Tool was not clearly described during onboarding. There was a need for a straightforward, step-by-step guide to facilitate a smooth onboarding experience.&lt;/p&gt;</description>
-    </item>
   </channel>
 </rss>
