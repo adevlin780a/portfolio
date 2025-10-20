@@ -72,6 +72,13 @@
       <description>&lt;h3 id=&#34;context&#34;&gt;Context&lt;/h3&gt;&#xA;&lt;p&gt;As a technical writer at ActiveState, I was tasked with creating a clear and concise guide to help developers quickly set up and start using the ActiveState Platform. This guide serves as an introductory resource for users new to the platform.&lt;/p&gt;&#xA;&lt;h3 id=&#34;problem&#34;&gt;Problem&lt;/h3&gt;&#xA;&lt;p&gt;New users often face challenges in understanding how to begin using the ActiveState Platform, leading to confusion and potential disengagement. Things like creating an account and building a runtime were common friction points for new users. And interacting with the command line interface of the State Tool was not clearly described during onboarding. There was a need for a straightforward, step-by-step guide to facilitate a smooth onboarding experience.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Project: Technical Writing Objectivity Analyzer</title>
+      <link>http://localhost:1313/portfolio/projects/creations/user-guides-copy/</link>
+      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/portfolio/projects/creations/user-guides-copy/</guid>
+      <description>&lt;h3 id=&#34;context&#34;&gt;Context&lt;/h3&gt;&#xA;&lt;p&gt;As a technical writer, I have often faced the challenge of ensuring that documentation remains clear, factual, and unbiased, especially when dealing with complex technologies or cross-functional audiences. During editing, I realized that identifying subjective or emotional language manually can be tedious and inconsistent. To explore how AI could assist writers in this area, I developed a lightweight web app that helps users evaluate how objective or subjective their writing sounds. It runs locally and is designed for anyone who wants to improve clarity and tone.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Organically DevOps: Building Quality and Security into the Software Supply Chain at Liberty Mutual</title>
       <link>http://localhost:1313/portfolio/publications/alldaydevops-copy/</link>
       <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
