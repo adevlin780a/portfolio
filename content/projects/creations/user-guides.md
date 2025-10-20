@@ -15,7 +15,7 @@ New users often face challenges in understanding how to begin using the ActiveSt
 ### Contribution
 I developed a structured guide that outlines the essential steps for getting started with the ActiveState Platform. Each section is designed to be beginner-friendly, with clear instructions and links to additional resources for further assistance. A troubleshooting section was added, comprised of the most common problems users encountered according to a poll done by our support team. 
 
-I also contributed to creating a brief onbaording video, collaborating with members of the Product and Engineering teams to draft and record a script outlining the onboarding process. 
+I also contributed to creating a brief onboarding video, collaborating with members of the Product and Engineering teams to draft and record a script outlining the onboarding process. 
 
 ![ActiveState user guide](/img/user-guide.png)
 ### Impact

@@ -18,7 +18,7 @@ I reorganized the documentation around user goals rather than system components.
 ![ActiveState API](/img/api.png)
 
 
-I also worked closely with developers to verify endpoint details, clarify data models, and make sure the documentation matched current API behavior. This led to the creation of a automatically generated API reference page where developers could quickly find and leverage existing APIs.
+I also worked closely with developers to verify endpoint details, clarify data models, and make sure the documentation matched current API behavior. This led to the creation of an automatically generated API reference page where developers could quickly find and leverage existing APIs.
 
 
 ![ActiveState API reference](/img/api-reference.png)
