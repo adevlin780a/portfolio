@@ -3,15 +3,15 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <title>Andrew Devlin | Portfolio</title>
-  <meta name="description" content="NA">
+  <title>Andrew Devlin | Project: Technical Writing Objectivity Analyzer</title>
+  <meta name="description" content="I created a tool that helps writers evaluate how objective or subjective their writing sounds, providing instant, actionable feedback.">
 
   
   
     <meta property="og:image" content="https://adevlin780a.github.io/portfolio/profile.jpg" />
-    <meta property="og:title" content="Andrew Devlin | Portfolio" />   
+    <meta property="og:title" content="Andrew Devlin | Project: Technical Writing Objectivity Analyzer" />   
   
-  <meta property="og:description" content="NA" />
+  <meta property="og:description" content="I created a tool that helps writers evaluate how objective or subjective their writing sounds, providing instant, actionable feedback." />
   <meta name="author" content="Andrew Devlin">
   
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
@@ -41,7 +41,7 @@
   <a class="navbar-brand js-scroll-trigger" href="#page-top">
     <span class="d-block d-lg-none">Andrew Devlin</span>
     <span class="d-none d-lg-block">
-      <img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="../../profile.jpg" alt="">
+      <img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="../../../profile.jpg" alt="">
     </span>
   </a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -50,23 +50,23 @@
   <div class="collapse navbar-collapse" id="navbarSupportedContent">
     <ul class="navbar-nav">
       <li class="nav-item">
-        <a class="nav-link js-scroll-trigger" href="../../#about">About</a>
+        <a class="nav-link js-scroll-trigger" href="../../../#about">About</a>
       </li>
       
       <li class="nav-item">
-        <a class="nav-link js-scroll-trigger" href="../../#creations">Portfolio</a>
+        <a class="nav-link js-scroll-trigger" href="../../../#creations">Portfolio</a>
       </li>
       
       <li class="nav-item">
-        <a class="nav-link js-scroll-trigger" href="../../#skills">Skills</a>
+        <a class="nav-link js-scroll-trigger" href="../../../#skills">Skills</a>
       </li>
       
       <li class="nav-item">
-        <a class="nav-link js-scroll-trigger" href="../../#experience">Experience</a>
+        <a class="nav-link js-scroll-trigger" href="../../../#experience">Experience</a>
       </li>
       
       <li class="nav-item">
-        <a class="nav-link js-scroll-trigger" href="../../#education">Education</a>
+        <a class="nav-link js-scroll-trigger" href="../../../#education">Education</a>
       </li>
       
       
@@ -84,6 +84,8 @@
 
 
 
+
+
 <li class="breadcrumb-item">
   <a href="https://adevlin780a.github.io/portfolio/">Home</a>
 </li>
@@ -94,8 +96,13 @@
 </li>
 
 
-<li class="breadcrumb-item active">
+<li class="breadcrumb-item">
   <a href="https://adevlin780a.github.io/portfolio/projects/creations/">Portfolio</a>
+</li>
+
+
+<li class="breadcrumb-item active">
+  <a href="https://adevlin780a.github.io/portfolio/projects/creations/ai-project/">Project: Technical Writing Objectivity Analyzer</a>
 </li>
 
   </ol>
@@ -104,123 +111,40 @@
 
 
 
-<section class="resume-section p-3 p-lg-5 d-flex flex-column">
-  <div class="my-auto" id="projects-content">
-    <h1 id="portfolio">Portfolio</h1>
-    <p><p>Clear, helpful content makes complex ideas easy to understand. Here’s a look at the work I’ve done to make products and documentation more user-friendly.</p>
-</p>
-    
-      
-        
-<h3 class="mb-3"><a href="https://adevlin780a.github.io/portfolio/projects/creations/software-documentation/">Software Documentation</a></h3>
-<div class="resume-item d-flex flex-column flex-md-row mb-3">
+<section class="resume-section p-3 p-lg-5 d-flex d-column">
+  <div class="my-auto">
+    <h2 class="mb-0"><span class="text-primary">Project: Technical Writing Objectivity Analyzer</span></h2>
+    <h3 id="context">Context</h3>
+<p>As a technical writer, I have often faced the challenge of ensuring that documentation remains clear, factual, and unbiased, especially when dealing with complex technologies or cross-functional audiences. During editing, I realized that identifying subjective or emotional language manually can be tedious and inconsistent. To explore how AI could assist writers in this area, I developed a lightweight web app that helps users evaluate how objective or subjective their writing sounds. It runs locally and is designed for anyone who wants to improve clarity and tone.</p>
+<h3 id="problem">Problem</h3>
+<p>Writers often struggle to assess the tone of their own writing objectively. Even experienced professionals can unintentionally include emotional or opinion-based language, such as “I think” or “this is great,” which can undermine technical accuracy and reader trust.</p>
+<p>Most existing AI tools for tone or sentiment analysis require cloud APIs, subscriptions, or complex configurations. These introduce privacy concerns and technical barriers, especially for writers who simply want a quick, offline way to check their text. I wanted to create something simple, transparent, and tailored to the needs of technical communicators.</p>
+<h3 id="contribution">Contribution</h3>
+<p>I built the Technical Writing Objectivity Analyzer using Python, Streamlit, TextBlob, and a lot of troubleshooting help from Claude Code. Streamlit provides a clean, interactive interface, while TextBlob handles the natural language processing.
+Here is how it works:</p>
+<ol>
+<li>Writers paste their text and click “Analyze Objectivity.”</li>
+<li>The app uses a lexicon-based AI model from TextBlob to evaluate the subjectivity of each word and phrase.</li>
+<li>It then calculates two key scores:</li>
+</ol>
+<p><strong>Objectivity</strong>: Shows how factual or neutral the writing is. An example of a passage with a relatively high objectivity score of 0.65 (or 65%) is shown below. Meaning this passage is more objective than subjective.</p>
+<p><img src="../../../img/obj.png" alt="Objectivity example">\</p>
+<p><strong>Subjectivity</strong>: how much emotion or opinion the text expresses. An example of a passage with a relatively low objectivity score of 0.02 (or 20%) is shown below. Meaning that this passage is more subjective than objective.</p>
+<p><img src="../../../img/sub.png" alt="Subjectivity example"></p>
+<p>Everything runs locally on the user’s machine. No data is sent online, and no API key is required.
+To support continuous improvement, I also integrated practical writing tips within the app. These suggestions help users rephrase emotional or vague statements into precise, evidence-based ones.</p>
+<h3 id="impact">Impact</h3>
+<p>I use the Objectivity Analyzer occasionally when reviewing documentation, and while it is a helpful tool, it is not without its limitations. The feedback it provides is quick and useful, but it can sometimes oversimplify complex sentences or misinterpret context, especially when technical language includes terms that sound subjective but are not.</p>
+<p>Despite these minor drawbacks, it offers valuable insights that traditional proofreading alone might miss. By surfacing tone-related issues quickly, the tool helps writers maintain technical accuracy, reader trust, and a professional tone.
+More importantly, it demonstrates how AI can assist rather than replace the writer, reinforcing the balance between automation and human judgment in documentation workflows.</p>
+<h3 id="links">Links</h3>
+<p><a href="https://github.com/adevlin780a/ai-project">Technical Writing Objectivity Analyzer on GitHub</a></p>
 
-  <div class="resume-content" style="width:200px;">
     
-      <img src="../../img/release-notes.png" style="max-height:150px;max-width:150px;"/>
-    
-  </div>
-  <div class="resume-date">
-    <p>I create software product documentation that helps users understand and get the most out of a product. My focus is on clear instructions, intuitive organization, and practical guidance that makes complex features easy to use.<p>
-    <p class><a href="https://adevlin780a.github.io/portfolio/projects/creations/software-documentation/">Read more..</a></p>
-  </div>
-</div>
-<div><ul class="tags">
+    <ul class="tags">
     
 </ul>
-</div>
 
-      
-    
-      
-        
-<h3 class="mb-3"><a href="https://adevlin780a.github.io/portfolio/projects/creations/api/">API Documentation</a></h3>
-<div class="resume-item d-flex flex-column flex-md-row mb-3">
-
-  <div class="resume-content" style="width:200px;">
-    
-      <img src="../../img/api-reference.png" style="max-height:150px;max-width:150px;"/>
-    
-  </div>
-  <div class="resume-date">
-    <p>I create API documentation that helps developers understand how to use software quickly and effectively. My focus is on clear explanations, practical examples, and consistent formatting to make integration and implementation as smooth as possible.<p>
-    <p class><a href="https://adevlin780a.github.io/portfolio/projects/creations/api/">Read more..</a></p>
-  </div>
-</div>
-<div><ul class="tags">
-    
-</ul>
-</div>
-
-      
-    
-      
-        
-<h3 class="mb-3"><a href="https://adevlin780a.github.io/portfolio/projects/creations/release-notes/">Release Notes</a></h3>
-<div class="resume-item d-flex flex-column flex-md-row mb-3">
-
-  <div class="resume-content" style="width:200px;">
-    
-      <img src="../../img/release-notes.png" style="max-height:150px;max-width:150px;"/>
-    
-  </div>
-  <div class="resume-date">
-    <p>I create release notes that make software updates clear and easy to understand. My goal is to help users quickly see what’s new, improved, or changed while keeping the content concise and user-friendly.<p>
-    <p class><a href="https://adevlin780a.github.io/portfolio/projects/creations/release-notes/">Read more..</a></p>
-  </div>
-</div>
-<div><ul class="tags">
-    
-</ul>
-</div>
-
-      
-    
-      
-        
-<h3 class="mb-3"><a href="https://adevlin780a.github.io/portfolio/projects/creations/user-guides/">User Guides</a></h3>
-<div class="resume-item d-flex flex-column flex-md-row mb-3">
-
-  <div class="resume-content" style="width:200px;">
-    
-      <img src="../../img/user-guide.png" style="max-height:150px;max-width:150px;"/>
-    
-  </div>
-  <div class="resume-date">
-    <p>I create user guides that combine technical accuracy with accessible language. Each guide follows best practices in information architecture, task-based writing, and visual clarity to ensure a smooth learning experience.<p>
-    <p class><a href="https://adevlin780a.github.io/portfolio/projects/creations/user-guides/">Read more..</a></p>
-  </div>
-</div>
-<div><ul class="tags">
-    
-</ul>
-</div>
-
-      
-    
-      
-        
-<h3 class="mb-3"><a href="https://adevlin780a.github.io/portfolio/projects/creations/ai-project/">Project: Technical Writing Objectivity Analyzer</a></h3>
-<div class="resume-item d-flex flex-column flex-md-row mb-3">
-
-  <div class="resume-content" style="width:200px;">
-    
-      <img src="../../img/sub.png" style="max-height:150px;max-width:150px;"/>
-    
-  </div>
-  <div class="resume-date">
-    <p>I created a tool that helps writers evaluate how objective or subjective their writing sounds, providing instant, actionable feedback.<p>
-    <p class><a href="https://adevlin780a.github.io/portfolio/projects/creations/ai-project/">Read more..</a></p>
-  </div>
-</div>
-<div><ul class="tags">
-    
-</ul>
-</div>
-
-      
-    
-    
   </div>
 </section>
 
@@ -235,7 +159,7 @@
   <script src="https://unpkg.com/smoothscroll-polyfill@0.4.4/dist/smoothscroll.min.js" integrity="sha384-EYn4rWu1DHvYD0sSSSbMEtXQmMl58CFJd897806+RT1jJVYbhuZlZMN6yG9nCyFa" crossorigin="anonymous"></script>
   <script src="https://unpkg.com/smoothscroll-anchor-polyfill@1.3.2/dist/index.min.js" integrity="sha384-EY9NBEHCFbZANmPcTm7CgG8OhsFILy0VBLG85pF6OIpP42NVbZVNsFOc23PYTCkB" crossorigin="anonymous"></script>
   
-  <script async src="../../js/resume.js"></script>
+  <script async src="../../../js/resume.js"></script>
   
 
   

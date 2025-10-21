@@ -25,9 +25,11 @@ Here is how it works:
 
 
 **Objectivity**: Shows how factual or neutral the writing is. An example of a passage with a relatively high objectivity score of 0.65 (or 65%) is shown below. Meaning this passage is more objective than subjective.
+
 ![Objectivity example](/img/obj.png)\
 
 **Subjectivity**: how much emotion or opinion the text expresses. An example of a passage with a relatively low objectivity score of 0.02 (or 20%) is shown below. Meaning that this passage is more subjective than objective.
+
 ![Subjectivity example](/img/sub.png)
 
 Everything runs locally on the user’s machine. No data is sent online, and no API key is required.
