@@ -9,16 +9,18 @@ sitemap:
   priority : 0.8
 ---
 ### Context
-As a technical writer at ActiveState, I was tasked with creating a clear and concise guide to help developers quickly set up and start using the ActiveState Platform. This guide serves as an introductory resource for users new to the platform.
+As a technical writer at ActiveState, I developed a clear and concise guide to help developers quickly set up and begin using the ActiveState Platform. This introductory resource is designed for users who are new to ActiveState and want to learn how to publish a package to PyPI.
+
 ### Problem
-New users often face challenges in understanding how to begin using the ActiveState Platform, leading to confusion and potential disengagement. Things like creating an account and building a runtime were common friction points for new users. And interacting with the command line interface of the State Tool was not clearly described during onboarding. There was a need for a straightforward, step-by-step guide to facilitate a smooth onboarding experience.
+Prior to my involvement, there was a gap in the documentation: although the ActiveState Platform supported package publication to PyPI, there wasn’t a clear, concise, developer-friendly guide that walked through the full end-to-end flow at a glance. Developers, especially those new to the ActiveState ecosystem, were left piecing together commands, platform-specific steps and assumptions (e.g., organization names, project naming, wheel building) from multiple pages. This led to confusion, slower onboarding and more support requests.
+
 ### Contribution
-I developed a structured guide that outlines the essential steps for getting started with the ActiveState Platform. Each section is designed to be beginner-friendly, with clear instructions and links to additional resources for further assistance. A troubleshooting section was added, comprised of the most common problems users encountered according to a poll done by our support team. 
+I created a complete workflow narrative that guided users through each stage of publishing a package, from installation to authentication, project setup, and final publication to PyPI. To ensure clarity and accessibility, I structured the content using a logical, numbered format with clear headings, platform-specific examples, and commands presented in easy-to-follow code blocks. My focus was on maintaining concise, actionable language that helped new users quickly understand prerequisites such as account setup and tool installation. I collaborated closely with engineers and product owners to validate the technical accuracy of commands, ensuring that the documentation reflected the latest functionality of the State Tool. I also incorporated contextual notes, tips, and examples to address common user pitfalls, helping readers navigate potential errors or naming constraints. Finally, I ensured the content aligned with ActiveState’s editorial and style guidelines for tone, terminology, and consistency across the platform’s documentation ecosystem.
 
-I also contributed to creating a brief onboarding video, collaborating with members of the Product and Engineering teams to draft and record a script outlining the onboarding process. 
+![ActiveState user guide](/img/pypi.png)
 
-![ActiveState user guide](/img/user-guide.png)
 ### Impact
-The guide has significantly improved the onboarding experience for new users, providing them with the necessary tools and knowledge to get started with the ActiveState Platform efficiently. Feedback indicates a reduction in support queries related to initial setup, suggesting that users find the guide helpful and easy to follow.
+The final guide provided developers with a single, reliable resource they could follow from start to finish. This made it easier for new users to get set up quickly and reduced the need to reference multiple documentation pages. The improved clarity led to fewer support tickets related to PyPI publishing and a smoother onboarding experience for new users. It also reinforced trust in ActiveState’s documentation by demonstrating that technical accuracy and usability could coexist. For me, this project was a great opportunity to combine technical precision with clear, user-centered writing.
+
 ### Links
-[Getting started with ActiveState](https://docs.activestate.com/platform/start/getting-started/)
+[Getting started with PyPI Trusted Publishing](https://docs.activestate.com/platform/integrations/pypi/)
