@@ -23,4 +23,4 @@ I created a complete workflow narrative that guided users through each stage of 
 The final guide provided developers with a single, reliable resource they could follow from start to finish. This made it easier for new users to get set up quickly and reduced the need to reference multiple documentation pages. The improved clarity led to fewer support tickets related to PyPI publishing and a smoother onboarding experience for new users. It also reinforced trust in ActiveState’s documentation by demonstrating that technical accuracy and usability could coexist. For me, this project was a great opportunity to combine technical precision with clear, user-centered writing.
 
 ### Links
-[Getting started with PyPI Trusted Publishing](https://docs.activestate.com/platform/integrations/pypi/)
+[PyPI Trusted Publishing](https://docs.activestate.com/platform/open-source-collaboration/pypi/)
