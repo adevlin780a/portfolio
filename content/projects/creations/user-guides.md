@@ -9,7 +9,7 @@ sitemap:
   priority : 0.8
 ---
 ### Context
-As a technical writer at ActiveState, I developed a clear and concise guide to help developers quickly set up and begin using the ActiveState Platform. This introductory resource is designed for users who are new to ActiveState and want to learn how to publish a package to PyPI.
+As a technical writer at ActiveState, I developed a clear and concise guide to help developers quickly set up and begin using the ActiveState Platform. This introductory resource is designed for users who are new to ActiveState and want to learn how to publish a package to PyPI. 
 
 ### Problem
 Prior to my involvement, there was a gap in the documentation: although the ActiveState Platform supported package publication to PyPI, there wasn’t a clear, concise, developer-friendly guide that walked through the full end-to-end flow at a glance. Developers, especially those new to the ActiveState ecosystem, were left piecing together commands, platform-specific steps and assumptions (e.g., organization names, project naming, wheel building) from multiple pages. This led to confusion, slower onboarding and more support requests.
