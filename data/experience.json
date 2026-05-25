@@ -1,9 +1,15 @@
 [
     {
+        "role":"Senior Technical Writer",
+        "company":"Freelance",
+        "summary":"\n- Worked with product, engineering, and support teams to translate technical information into clear, user-focused content.\n- Used AI-assisted workflows to speed up research, drafting, editing, content reuse, and consistency checks across documentation.\n- Improved documentation structure and maintainability by creating templates, reusable content patterns, and editorial standards.\n- Supported fast-moving product updates by turning complex technical changes into accurate, polished customer-facing content.",
+        "range":"October 2025 - Present "
+    },
+    {
         "role":"Technical Writer II",
         "company":"Visier",
         "summary":"\n- Collaborate with a cross-functional team of Product Managers, Engineers, Architects, and UX Designers to write high-quality, developer-centered content.\n- Develop and maintain user-centric technical documentation, including tutorials, API documentation, and user guides. \n- Conduct SME interviews and transform technical insights into clear, concise, and user-friendly documentation. \n- Design visuals, diagrams, and code examples to improve comprehension of complex workflows. \n- Manage content governance, ensuring timely updates to reflect platform changes, new features, and evolving best practices.",
-        "range":"October 2024 - Present "
+        "range":"October 2024 - October 2025 "
     },
     {
         "role":"Senior Technical Writer",
