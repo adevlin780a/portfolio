@@ -28,4 +28,4 @@ I also worked closely with developers to verify endpoint details, clarify data m
 After the update, the API docs became easier to navigate and more actionable. Users could successfully authenticate and make their first API calls without needing internal support. The new structure also reduced confusion between REST and GraphQL endpoints, helping developers integrate with the platform more confidently and efficiently.
 ### Links
 * [ActiveState API documentation home](https://docs.activestate.com/platform/api/)
-* [ActiveState API reference page](https://docs.activestate.com/graphql-reference/)
+* [API Example Queries](https://docs.activestate.com/platform/api/example-queries)
