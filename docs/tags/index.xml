@@ -2,143 +2,143 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Andrew Devlin</title>
-    <link>http://localhost:1313/portfolio/tags/</link>
+    <link>https://adevlin780a.github.io/portfolio/tags/</link>
     <description>Recent content in Tags on Andrew Devlin</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 07 Jan 2020 17:09:26 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://adevlin780a.github.io/portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Docker</title>
-      <link>http://localhost:1313/portfolio/tags/docker/</link>
+      <link>https://adevlin780a.github.io/portfolio/tags/docker/</link>
       <pubDate>Tue, 07 Jan 2020 17:09:26 +0000</pubDate>
-      <guid>http://localhost:1313/portfolio/tags/docker/</guid>
+      <guid>https://adevlin780a.github.io/portfolio/tags/docker/</guid>
       <description></description>
     </item>
     <item>
       <title>JavaScript</title>
-      <link>http://localhost:1313/portfolio/tags/javascript/</link>
+      <link>https://adevlin780a.github.io/portfolio/tags/javascript/</link>
       <pubDate>Tue, 07 Jan 2020 17:09:26 +0000</pubDate>
-      <guid>http://localhost:1313/portfolio/tags/javascript/</guid>
+      <guid>https://adevlin780a.github.io/portfolio/tags/javascript/</guid>
       <description></description>
     </item>
     <item>
       <title>JSON</title>
-      <link>http://localhost:1313/portfolio/tags/json/</link>
+      <link>https://adevlin780a.github.io/portfolio/tags/json/</link>
       <pubDate>Tue, 07 Jan 2020 17:09:26 +0000</pubDate>
-      <guid>http://localhost:1313/portfolio/tags/json/</guid>
+      <guid>https://adevlin780a.github.io/portfolio/tags/json/</guid>
       <description></description>
     </item>
     <item>
       <title>Node.js</title>
-      <link>http://localhost:1313/portfolio/tags/node.js/</link>
+      <link>https://adevlin780a.github.io/portfolio/tags/node.js/</link>
       <pubDate>Tue, 07 Jan 2020 17:09:26 +0000</pubDate>
-      <guid>http://localhost:1313/portfolio/tags/node.js/</guid>
+      <guid>https://adevlin780a.github.io/portfolio/tags/node.js/</guid>
       <description></description>
     </item>
     <item>
       <title>Rest APIs</title>
-      <link>http://localhost:1313/portfolio/tags/rest-apis/</link>
+      <link>https://adevlin780a.github.io/portfolio/tags/rest-apis/</link>
       <pubDate>Tue, 07 Jan 2020 17:09:26 +0000</pubDate>
-      <guid>http://localhost:1313/portfolio/tags/rest-apis/</guid>
+      <guid>https://adevlin780a.github.io/portfolio/tags/rest-apis/</guid>
       <description></description>
     </item>
     <item>
       <title>Agile</title>
-      <link>http://localhost:1313/portfolio/tags/agile/</link>
+      <link>https://adevlin780a.github.io/portfolio/tags/agile/</link>
       <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/portfolio/tags/agile/</guid>
+      <guid>https://adevlin780a.github.io/portfolio/tags/agile/</guid>
       <description></description>
     </item>
     <item>
       <title>CI/CD Pipelines</title>
-      <link>http://localhost:1313/portfolio/tags/ci/cd-pipelines/</link>
+      <link>https://adevlin780a.github.io/portfolio/tags/ci/cd-pipelines/</link>
       <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/portfolio/tags/ci/cd-pipelines/</guid>
+      <guid>https://adevlin780a.github.io/portfolio/tags/ci/cd-pipelines/</guid>
       <description></description>
     </item>
     <item>
       <title>Continuous Delivery</title>
-      <link>http://localhost:1313/portfolio/tags/continuous-delivery/</link>
+      <link>https://adevlin780a.github.io/portfolio/tags/continuous-delivery/</link>
       <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/portfolio/tags/continuous-delivery/</guid>
+      <guid>https://adevlin780a.github.io/portfolio/tags/continuous-delivery/</guid>
       <description></description>
     </item>
     <item>
       <title>Continuous Integration</title>
-      <link>http://localhost:1313/portfolio/tags/continuous-integration/</link>
+      <link>https://adevlin780a.github.io/portfolio/tags/continuous-integration/</link>
       <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/portfolio/tags/continuous-integration/</guid>
+      <guid>https://adevlin780a.github.io/portfolio/tags/continuous-integration/</guid>
       <description></description>
     </item>
     <item>
       <title>Culture</title>
-      <link>http://localhost:1313/portfolio/tags/culture/</link>
+      <link>https://adevlin780a.github.io/portfolio/tags/culture/</link>
       <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/portfolio/tags/culture/</guid>
+      <guid>https://adevlin780a.github.io/portfolio/tags/culture/</guid>
       <description></description>
     </item>
     <item>
       <title>DevOps</title>
-      <link>http://localhost:1313/portfolio/tags/devops/</link>
+      <link>https://adevlin780a.github.io/portfolio/tags/devops/</link>
       <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/portfolio/tags/devops/</guid>
+      <guid>https://adevlin780a.github.io/portfolio/tags/devops/</guid>
       <description></description>
     </item>
     <item>
       <title>Apache</title>
-      <link>http://localhost:1313/portfolio/tags/apache/</link>
+      <link>https://adevlin780a.github.io/portfolio/tags/apache/</link>
       <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
-      <guid>http://localhost:1313/portfolio/tags/apache/</guid>
+      <guid>https://adevlin780a.github.io/portfolio/tags/apache/</guid>
       <description></description>
     </item>
     <item>
       <title>Redirect</title>
-      <link>http://localhost:1313/portfolio/tags/redirect/</link>
+      <link>https://adevlin780a.github.io/portfolio/tags/redirect/</link>
       <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
-      <guid>http://localhost:1313/portfolio/tags/redirect/</guid>
+      <guid>https://adevlin780a.github.io/portfolio/tags/redirect/</guid>
       <description></description>
     </item>
     <item>
       <title>Rewrite</title>
-      <link>http://localhost:1313/portfolio/tags/rewrite/</link>
+      <link>https://adevlin780a.github.io/portfolio/tags/rewrite/</link>
       <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
-      <guid>http://localhost:1313/portfolio/tags/rewrite/</guid>
+      <guid>https://adevlin780a.github.io/portfolio/tags/rewrite/</guid>
       <description></description>
     </item>
     <item>
       <title>Ssl</title>
-      <link>http://localhost:1313/portfolio/tags/ssl/</link>
+      <link>https://adevlin780a.github.io/portfolio/tags/ssl/</link>
       <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
-      <guid>http://localhost:1313/portfolio/tags/ssl/</guid>
+      <guid>https://adevlin780a.github.io/portfolio/tags/ssl/</guid>
       <description></description>
     </item>
     <item>
       <title>Web Development</title>
-      <link>http://localhost:1313/portfolio/tags/web-development/</link>
+      <link>https://adevlin780a.github.io/portfolio/tags/web-development/</link>
       <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
-      <guid>http://localhost:1313/portfolio/tags/web-development/</guid>
+      <guid>https://adevlin780a.github.io/portfolio/tags/web-development/</guid>
       <description></description>
     </item>
     <item>
       <title>Bamboo</title>
-      <link>http://localhost:1313/portfolio/tags/bamboo/</link>
+      <link>https://adevlin780a.github.io/portfolio/tags/bamboo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/portfolio/tags/bamboo/</guid>
+      <guid>https://adevlin780a.github.io/portfolio/tags/bamboo/</guid>
       <description></description>
     </item>
     <item>
       <title>Java</title>
-      <link>http://localhost:1313/portfolio/tags/java/</link>
+      <link>https://adevlin780a.github.io/portfolio/tags/java/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/portfolio/tags/java/</guid>
+      <guid>https://adevlin780a.github.io/portfolio/tags/java/</guid>
       <description></description>
     </item>
     <item>
       <title>JQuery</title>
-      <link>http://localhost:1313/portfolio/tags/jquery/</link>
+      <link>https://adevlin780a.github.io/portfolio/tags/jquery/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/portfolio/tags/jquery/</guid>
+      <guid>https://adevlin780a.github.io/portfolio/tags/jquery/</guid>
       <description></description>
     </item>
   </channel>
