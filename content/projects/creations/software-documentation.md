@@ -25,5 +25,5 @@ To complement the main Business Rules page, I created a companion page titled â€
 ### Impact
 The updated Business Rules page, as well as the accompanying Business Rules Examples page, gives developers and analysts a clear reference for authoring and managing rules within Visier Studio. It improves usability by consolidating previously scattered information into one location and reduces support requests by helping users troubleshoot and understand rule behavior on their own. By following the documentation framework and version control practices, the page is also easy to maintain and update as the product evolves.
 ### Links
-* [Visier Documentation Business Rules](https://docs.visier.com/embedded/Studio/data/rules/rules-business.htm)
-* [Visier Documentation Business Rules Examples](https://docs.visier.com/embedded/Studio/data/rules/rules-business-examples.htm)
+* [Visier Documentation Business Rules](https://docs.visier.com/developer/Studio/data/rules/rules-business.htm)
+* [Visier Documentation Business Rules Examples](https://docs.visier.com/developer/Studio/data/rules/rules-business-examples.htm)

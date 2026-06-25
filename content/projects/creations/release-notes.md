@@ -19,4 +19,4 @@ I helped make the release notes clearer and more user-focused by writing feature
 ### Impact
 The release notes are now easier to scan and more relevant to each audience. Developers can quickly find updates that affect their work, reducing confusion and support requests. The polished, consistent format also builds trust in the documentation and makes future updates simpler to maintain.
 ### Links
-[Visier Release Notes](https://docs.visier.com/embedded/Release%20Notes/release-notes.htm)
+[Visier Release Notes](https://docs.visier.com/developer/Release%20Notes/2025/F25-release-notes.htm)
